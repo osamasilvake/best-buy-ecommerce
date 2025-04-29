@@ -7,7 +7,7 @@ export const features = [
   },
   {
     icon: FaShippingFast,
-    text: "Free shipping over $35",
+    text: "Free shipping over $40",
   },
   {
     icon: FaTags,
