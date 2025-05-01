@@ -18,7 +18,7 @@ const Banner = () => {
 
         <div className="container mx-auto pt-2 flex flex-col lg:flex-row items-center justify-between">
           <div className="flex items-center gap-7">
-            <Image className="text-white" src={bestbuy} width={82} height={48} alt="bestbuy" />
+            <Image className="text-white hidden sm:block" src={bestbuy} width={82} height={48} alt="bestbuy" />
             <SearchBar />
           </div>
           <IconMenu />
